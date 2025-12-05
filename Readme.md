@@ -50,13 +50,11 @@ Assigns retention strategies like:
 - Cross-sell bundles  
 - Trigger personal support call  
 
-### 🔹 5. Power BI Dashboard (4 Pages)
-- Executive KPIs  
-- Customer Segmentation  
-- Churn Drivers  
-- Action Engine & Revenue at Risk  
+### 🔹 5. Power BI Dashboard
+
 
 ---
 
+![Dashboard Preview](img.png)
 
 
